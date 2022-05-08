@@ -1,0 +1,1 @@
+# Identificacion-de-enfermedades-foliares-en-manzanos-utilizando-la-metodologia-Teacher-Student
